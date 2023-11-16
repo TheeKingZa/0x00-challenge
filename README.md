@@ -1,6 +1,6 @@
 # Fix My Code Challenge
 
-[<]() 0x00-challenge [>]()
+[<](https://github.com/TheeKingZa/alx-system_engineering-devops/tree/master/README.md) 0x00-challenge [>](https://github.com/TheeKingZa/Fix_My_Code_Challenge/blob/master/0x00-challenge/README.md)
 ---
 
 * Other projects
